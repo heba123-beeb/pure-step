@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://pure-step.pages.dev/sitemap.xml
